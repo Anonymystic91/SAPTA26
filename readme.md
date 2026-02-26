@@ -1,9 +1,7 @@
 # I Am No One: Style-Aware Paraphrasing for Text Anonymization
 
 *(InterSpeech 2026 anonymous submission)*
-### **The supplementary material can be found in ```bash
-supplementary.pdf**
----
+### **The supplementary material can be found in 'supplementary.pdf'**
 
 ## Quick Start
 
